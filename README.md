@@ -1,0 +1,1 @@
+Esta é uma página de cadastro simples, utilizando HTML e CSS.
