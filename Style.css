@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: azure;
+  color: #000;
+}
+
+ul,
+a {
+  text-decoration: none;
+  color: black;
+}
+
+
