@@ -1,14 +1,48 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  background-color: azure;
+  background-color: white;
   color: #000;
+  margin-left: 500px;
 }
 
-ul,
+.folha {
+  margin-right: 500px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-color: #4682b4;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 4px;
+  background-color: aliceblue;
+}
+
+h1 {
+  background-color: #4682b4;
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  color: aliceblue;
+}
+h2 {
+  color: #4682b4;
+  margin-top: 0px;
+}
 a {
-  text-decoration: none;
   color: black;
+  text-decoration: none;
+  text-align: center;
 }
-
-
+ul {
+  margin-left: -40px;
+}
+p {
+  background-color: aqua;
+  padding: 10px 5px;
+  border-radius: 4px;
+  margin: 10px;
+}
